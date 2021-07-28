@@ -1,0 +1,16 @@
+*__pycache__*
+logs/
+.ipynb_checkpoints/
+
+hpatches-sequences-release/
+extracted_features/
+HSequences_bench/results/
+samples_for_matching/
+
+datasets/synth
+keyNet/tfrecords
+keyNet/weights/*
+keyNet/data/*
+
+0.sh
+1.sh
