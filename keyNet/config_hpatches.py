@@ -51,6 +51,7 @@ def get_config():
                         help='The scale factor between the pyramid levels.')
     parser.add_argument('--scale-factor', type=float, default=2.,
                         help='The scale factor to extract patches before descriptor.')
+    args = parser.parse_args()
 
     return args
 
