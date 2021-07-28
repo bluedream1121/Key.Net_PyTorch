@@ -1,4 +1,4 @@
-# Key.Net: Keypoint Detection by Handcrafted and Learned CNN Filters (PyTorch reproduce version, Unofficial)
+# Key.Net: Keypoint Detection by Handcrafted and Learned CNN Filters (PyTorch)
 
 PyTorch reproduce source code for the ICCV19 paper:
 
